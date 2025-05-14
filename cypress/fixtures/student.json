@@ -1,0 +1,12 @@
+{
+  "login": "testerStudent",
+  "password": "Password1",
+  "none_correct_login": "noncor",
+  "none_correct_password": "Password2",
+  "url_auth": "https://dev.profteam.su/login",
+  "email": "testerStudent@gmail.com",
+  "surname": "Орлеан",
+  "name": "Сигма",
+  "patronym": "Без отчества",
+  "avatar": "cypress/fixtures/avatar.jpeg"
+}
